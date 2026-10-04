@@ -1,0 +1,11 @@
+{
+    "model": "Random Forest Classifier",
+    "accuracy": 0.9985,
+    "training_records": 8160,
+    "testing_records": 2040,
+    "classes": [
+        "High",
+        "Low",
+        "Medium"
+    ]
+}

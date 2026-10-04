@@ -1,0 +1,12 @@
+{
+    "total_records": 10200,
+    "total_vehicles": 3483099,
+    "average_speed": 35.74,
+    "busiest_hour": 19,
+    "busiest_road": "Road A",
+    "traffic_distribution": {
+        "Low": 4882,
+        "Medium": 3212,
+        "High": 2106
+    }
+}

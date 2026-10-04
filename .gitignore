@@ -1,0 +1,21 @@
+# Python environments
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Node.js
+frontend/node_modules/
+frontend/dist/
+
+# Local environment configuration
+.env
+frontend/.env
+
+# Local database
+traffic_history.db
+*.sqlite
+*.sqlite3
+
+# Editor files
+.vscode/
